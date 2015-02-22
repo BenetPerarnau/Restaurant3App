@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names_restaurants">
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+        <item>Restaurant 1</item>
+    </string-array>
+    <string-array name="citys_restaurants">
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+        <item>City Restaurant 1</item>
+    </string-array>
+    <string-array name="districts_restaurants">
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+        <item>Districts Restaurant 1</item>
+    </string-array>
+    <string-array name="url_restaurants">
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+        <item>http://www.google.com</item>
+    </string-array>
+    <string-array name="imgs_restaurants">
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+        <item>ic_launcher</item>
+    </string-array>
+
+</resources>
